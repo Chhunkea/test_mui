@@ -50,7 +50,10 @@ const Tour = () => {
         >
           About this ticket
         </Typography>
-        <AccordionUsage />
+        <AccordionUsage
+        title={'tiki'}
+        description={'kak tiki'}
+        />
       </Box>
 
       {/* Tab bar */}
